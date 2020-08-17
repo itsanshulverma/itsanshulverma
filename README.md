@@ -1,11 +1,11 @@
 ## Hi there👋, I am Anshul Verma
 
----
+
 
 👨‍🎓 I am undergrad student at Delhi University 
    Majoring in Computer Science.
 
----
+
 
 - 📢 Ask me about:
 
