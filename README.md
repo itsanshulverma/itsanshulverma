@@ -3,7 +3,7 @@
 
 
 👨‍🎓 I am undergrad student at Delhi University 
-   Majoring in Computer Science.
+   Majoring in Computer Science and Mathematics.
 
 
 
