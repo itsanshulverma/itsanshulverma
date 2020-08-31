@@ -21,6 +21,10 @@
 
   Node.js, Express.js, React, Django, Bootstrap, D3.js, p5.js, Deno, Wordpress
 
+- 💻 Other
+
+  MATLAB, Octave, wxMaxima, Regular Expressions
+
 - 📫 How to reach me: 
 
   - LinkedIn : [@itsanshulverma](https://www.linkedin.com/in/itsanshulverma)
