@@ -118,7 +118,7 @@
 |`mobile development`|
 ![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=android&logoColor=white)
 
-}`editors`|
+|`editors`|
 ![VSCode](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <!-- ## technologies 👨‍💻 
