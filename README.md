@@ -1,11 +1,11 @@
 <a href="https://twitter.com/itsAnshulVerma">
-  <img align="left" alt="Anshul's Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Anshul's Twitter" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/266px-X_logo_2023.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/itsanshulverma/">
-  <img align="left" alt="Anshul's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Anshul's LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://www.instagram.com/itsanshulverma">
-  <img align="left" alt="Anshul's Instagram" width="20px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
+  <img align="left" alt="Anshul's Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
 </a>
 <br />
 
@@ -13,13 +13,14 @@
 
 👨‍💻 A `coder`/`programmer`/`developer` who likes JavaScript a lot.
 
-👨‍🎓 Computer Science and Mathematics Graduate from University of Delhi (Class of 2022).
+👨‍🎓 Currently pursuing MBA from `Indian Institute of Management, Lucknow` (Class of 2025). <br />
+👨‍🎓 Computer Science and Mathematics Graduate from the `University of Delhi` (Class of 2022).
 
 👉 [Website](https://itsanshulverma.github.io) 
 
 ### ask me about 📢 
 
-`tech`, `web development`, `data`, `mathematics`, `gadgets`, `movies` or anything new. I would love to connect and learn things.
+`mba`, `cat`, `tech`, `web development`, `data`, `mathematics`, `gadgets`, `movies` or anything new. I would love to connect and learn things.
 
 ## technologies 👨‍💻
 |`languages`|
